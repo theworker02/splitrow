@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/splitrow",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Split list/row set operations for shell-friendly data wrangling.",
+  "bin": {
+    "splitrow": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/splitrow.git"
+  },
+  "homepage": "https://theworker02.github.io/splitrow/",
+  "keywords": [
+    "split",
+    "row",
+    "list",
+    "cli",
+    "toolkit"
+  ]
+}
